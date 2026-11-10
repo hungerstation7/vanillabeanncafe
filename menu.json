@@ -1,0 +1,16 @@
+{
+ "cafe": "NEW BRAND NAME",
+ "tagline": "Your tagline here",
+ "wa": "92300XXXXXXX",
+ "cur": "Rs.",
+ "logo": "",
+ "cats": [
+  {
+   "name": "Sample Category",
+   "notice": "",
+   "items": [
+    {"n": "Sample Item", "d": "Short description", "p": 0, "e": "🍽️", "img": "", "out": false}
+   ]
+  }
+ ]
+}
